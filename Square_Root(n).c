@@ -1,6 +1,6 @@
 /* 
 
-@Shivansh Kaushal 1910990128
+@Shivansh Kaushal (1910990128)
 
 Program to find sqrt of a number(n) upto given decimal places(p).
 Code Language -  C 
